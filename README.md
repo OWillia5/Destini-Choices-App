@@ -1,12 +1,19 @@
 #  Destini-Choices-App
 
-Practiced Swift and applied MVC design pattern to create/modify App Brewery's "Destini" app. 
+Incorporated from Angela Yu's Destini Choices App from the London App Brewery's iOS Development course.
 
-## Brief Walkthrough
-https://user-images.githubusercontent.com/38589337/173714060-cf9baf23-3176-49d4-893f-797e30f00efe.mp4
+## Tasks
+- Implemented the MVC design pattern to structure my project
+- Seperating the Model from the Controller
+- Reviewed the concept of Structures 
 
-Demonstrated:
+## Created
+A “choose your own adventure” game similar to the App Store hit “Life Line” app. The app will tell a story depending on what the user chooses and can be fleshed out and modified to provide an engaging story-telling experience
+
+## Learned
  - Applying MVC to to design a scalable app, built the logic for app in "Model" folder
  - Modified user interface to update programmatically and customized layout in View
 
-Learned from Phillip Muellauer and Angela Yu at London App Brewery
+## App Walkthrough
+https://user-images.githubusercontent.com/38589337/173714060-cf9baf23-3176-49d4-893f-797e30f00efe.mp4
+
